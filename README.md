@@ -73,6 +73,7 @@ I wanted to get across how overwhelming it can feel being online in this day and
 ### 🟪 Stage 5
 - Name/Alias: **Grace An/ Taropie3sui**
 - Github account: **https://github.com/Taropie3sui**
-- Published webpage for stage 5: 
+- Published webpage for stage 5: **https://taropie3sui.github.io/exquisite-corpse-stage-5/**
 
-*... comments to be added here*
+**Overview:**
+I greatly enjoyed playing Odette’s version of “Time Jockey.” Inspired by this, I merged the theme of ‘nature and plants’ from my previous work (satge 4) with the horse elements found in “Time Jockey.” I noticed that the horses in the game are depicted as very free, and Odette has gave them free spirits, although the choices are still made by the viewers on the screen. I crafted an environment by taking a photo of my mother’s garden, allowing viewers to interact with the code by clicking anywhere on the canvas. Wherever they click, the classic horse element appears, symbolizing freedom. In this unique setting, the horses can appear anywhere, enhancing the sense of liberty and interaction.
